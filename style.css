@@ -12,6 +12,10 @@ body{
     color: #00abae;
 }
 
+.sub-title{
+    font-size: 32px;
+}
+
 /*[header]のスタイルシート */
 
 .block-header {margin: 10px;
@@ -24,3 +28,44 @@ body{
     text-decoration: none;
     letter-spacing: 1px;
 }
+
+/*[main]のスタイルシート　*/
+/*[main]のスタイルシート　*/
+
+.block-main {}
+
+/*[profile]のスタイルシート　*/
+
+.item-list {}
+
+.item-list b {
+    display: block;
+    font-size: 24px;
+    font-weight: normal;
+    margin: 20px 0 30;
+    margin: 20px 0 30;
+    margin: 20px 0 30px;
+}
+
+.item-list p {
+    font-size: 14px;
+    line-height: normal;
+    text-align: left;
+}
+
+.icon-list{
+    list-style: none;
+    width: 100%;
+    max-width: 247px;
+    margin: 30px auto;
+    padding: 0;
+    display: flex;
+    -webkit-justify-content: center;
+}
+
+.icon-list li {
+    margin-right: 22px;
+}
+
+
+
